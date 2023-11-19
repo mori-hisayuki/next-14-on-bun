@@ -20,6 +20,7 @@
     "streetsidesoftware.code-spell-checker",  // Code Spell Checker
     "dbaeumer.vscode-eslint",                 // ESLint
     "esbenp.prettier-vscode",                 // Prettier
+    "SuhelMakkad.shadcn-ui",                  // shadcn/ui
     "rangav.vscode-thunder-client",           // Thunder Client
     "ritwickdey.liveserver",                  // Live Server
   ],
